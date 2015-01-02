@@ -1,0 +1,6 @@
+title: Geomantic Labs
+subtitle: Notes and Reflections by Steven Johnson
+#build config
+server: true
+auto: true
+markdown: rdiscount 
