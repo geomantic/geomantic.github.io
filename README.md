@@ -1,4 +1,4 @@
 geomantic.github.io
 ===================
 
-blahg
+GeomanticLabs
