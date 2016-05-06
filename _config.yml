@@ -1,6 +1,6 @@
 title: Geomantic Labs
-subtitle: Founder & Principal - Steven Johnson
+subtitle: Steven Johnson thinks out loud
 #build config
 server: true
 auto: true
-markdown: rdiscount 
+markdown: kramdown 
