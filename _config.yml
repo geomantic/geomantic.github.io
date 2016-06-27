@@ -4,3 +4,11 @@ subtitle: Steven Johnson thinks out loud
 server: true
 auto: true
 markdown: kramdown 
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://geomantic.github.io/sej_blog"
+title: "Blog Template for GitHub Pages"
+canonifyurls: true
